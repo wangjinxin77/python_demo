@@ -24,7 +24,3 @@ refactor: 简单说明改进点
 - [ ] 需要更新依赖(优先rpm spec，其次requirements.txt)
 - [ ] 需要同步到其它分支
 - [ ] 是共性问题(代码中存在类似问题)
-
-/assign @jinzhou
-
-/cc @wangkai @zhangqing
