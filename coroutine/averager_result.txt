@@ -1,0 +1,9 @@
+>>>run grouper here 0th
+>>>run grouper here 1th
+>>>run grouper here 0th
+>>>run grouper here 1th
+>>>run grouper here 0th
+>>>run grouper here 1th
+>>>run grouper here 0th
+>>>run grouper here 1th
+{'girls;kg': Result(count=10, average=42.040000000000006), 'girls:m': Result(count=10, average=1.4279999999999997), 'boys:kg': Result(count=9, average=40.422222222222224), 'boyrs:m': Result(count=9, average=1.3888888888888888)}
